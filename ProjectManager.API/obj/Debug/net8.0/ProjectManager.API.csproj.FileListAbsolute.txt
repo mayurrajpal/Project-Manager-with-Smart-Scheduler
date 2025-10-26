@@ -166,3 +166,4 @@ C:\Users\Mayur\ProjectManager\ProjectManager.API\obj\Debug\net8.0\refint\Project
 C:\Users\Mayur\ProjectManager\ProjectManager.API\obj\Debug\net8.0\ProjectManager.API.pdb
 C:\Users\Mayur\ProjectManager\ProjectManager.API\obj\Debug\net8.0\ProjectManager.API.genruntimeconfig.cache
 C:\Users\Mayur\ProjectManager\ProjectManager.API\obj\Debug\net8.0\ref\ProjectManager.API.dll
+C:\Users\Mayur\ProjectManager\ProjectManager.API\obj\Debug\net8.0\ProjectManager.API.sourcelink.json
