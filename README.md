@@ -2,7 +2,7 @@
 
 A full-stack project management application with AI-powered task scheduling capabilities.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard-full.png)
 
 ---
 
@@ -116,13 +116,6 @@ Frontend runs on: `http://localhost:3000`
 
 ![Timeline](screenshots/schedule-timeline.png)
 *Visual timeline of scheduled tasks*
-
-![Conflicts](screenshots/schedule-result-modal.png)
-*Automatic conflict detection*
-
-### Analytics
-![Insights](screenshots/insights.png)
-*Productivity insights dashboard*
 
 ---
 
